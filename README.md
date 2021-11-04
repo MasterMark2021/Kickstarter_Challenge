@@ -19,11 +19,11 @@ From the data and visualization of the outcomes based on goals, the number of su
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. There are more successful outcomes in April, May, June, July and August than for failed and canceled outcomes
-2. There are less outcomes during the start (Jan- March) of the campaigns, then we recorded an increase in campaign outcomes as we progress (April - August) and then a decrease    in campaign outcome from September through to Dec. 
+   1. There are more successful outcomes in April, May, June, July and August than for failed and canceled outcomes
+   2. There are less outcomes during the start (Jan- March) of the campaigns, then we recorded an increase in campaign outcomes as we progress (April - August) and then a             decrease    in campaign outcome from September through to Dec. 
 
 - What can you conclude about the Outcomes based on Goals?
-- The number of successful outcome based on the goals ranges are higher between goals less than 1,000 and goals less than or equal to 10,000
+   1. The number of successful outcome based on the goals ranges are higher between goals less than 1,000 and goals less than or equal to 10,000.
 
 - What are some limitations of this dataset?
 
