@@ -9,9 +9,10 @@ Splitting the original Category and Subcategory of the data provided us with bet
 There are 4 expected outcome for this campaign data however only 3 outcomes were of most interest to us and Louise, so we have to streamline analysis of the data  to 3 unique outcomes. 
 
 ### Analysis of Outcomes Based on Launch Date
-Analysis of outcomes based on lauch date shows that outcomes between April - August. There are more successful outcomes in April, May, June, July and August than for failed and canceled outcomes. There are less canceled outcomes within this period meaning more successful, followed by failed. There are less outcomes during the start of the campaigns, then we recorded an increase in campaign outcomes as we progress and then a decrease in campaign outcome from September through to Dec. 
+Analysis of outcomes based on lauch date shows that outcomes between April - August. There are more successful outcomes in April, May, June, July and August than for failed and canceled outcomes. There are less canceled outcomes within this period meaning more successful, followed by failed. There are less outcomes during the start of the campaigns, then we recorded an increase in campaign outcomes as we progress and then a decrease in campaign outcome from September through to Dec.  Refer to the visualization for this data using  Theater as a sample case study.
 
 ### Analysis of Outcomes Based on Goals
+From the data and visualization of the outcomes based on goals, the number of successful outcome based on the goals ranges are higher between goals less than 1,000 and goals less than or equal to 10,000. The % of successful outcomes is higher than failed and canceled outcomes.
 
 ### Challenges and Difficulties Encountered
 
